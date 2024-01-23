@@ -2,3 +2,7 @@
 ---
 
 @import "{{ site.theme }}";
+
+header a.button {
+    background: transparent url(../images/tickets-button.png) 0 0 no-repeat;
+}
