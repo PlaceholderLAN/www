@@ -4,7 +4,7 @@ Per nå satser vi på å leie lokale i Hamar-området, og arbeider med å skaffe
 
 I første omgang kommer vi til å slippe 100 billetter til 499 kr + omkostninger per stykk, så det kan lønne seg å være rask på avtrekkeren for å sikre seg plass.
 
-Bli med på Discord for å holde deg oppdatert 👉
+Bli med på [vår Discord-server](https://discord.gg/J4efDJAZnH) for å holde deg oppdatert.
 
 Inviter gjerne venner! Jo flere, jo bedre!
 
