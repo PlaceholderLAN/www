@@ -4,7 +4,7 @@ Er dere triste fordi det ikke blir noe TG i år? Mange av oss som er frivillige 
 Trykk på knappen ovenfor for å melde din interesse!
 
 ## Hvor?
-Vi jobber med å spikre leieavtale for et lokale i Hamar-området, og vil ha plass til 100 deltakere. Vi har allerede skaffet nettverksutstyr, og jobber med sponsoravtaler for blandt annet fiberlinje.
+Vi jobber med å spikre leieavtale for et lokale i Hamar-området, og vil ha plass til 100 deltakere. Vi har allerede skaffet nettverksutstyr, og jobber med sponsoravtaler for blant annet fiberlinje.
 
 ## Pris?
 Billetter blir å koste 499 kr (pluss omkostninger). Vi slipper kun 100 stykk, så det kan lønne seg å være rask på avtrekkeren for å sikre seg plass. Målet er at arrangementet skal gå i null, og eventuelt overskudd vil vi donere til Røde Kors Hamar.
