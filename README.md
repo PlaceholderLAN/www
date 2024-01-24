@@ -1,13 +1,13 @@
 ## Hva?
-Er dere triste fordi det ikke blir noe TG i år? Frykt ikke! Mange av oss som er frivillige på TG synes også er det ganske kjipt, og vi forsøker derfor å organisere et "erstatnings-LAN" i påsken.
+Er dere triste fordi det ikke blir noe TG i år? Mange av oss som er frivillige på TG synes også er det ganske kjipt, og vi forsøker derfor å organisere et "erstatnings-LAN" i påsken. &#171;Vi er vår egen målgruppe&#187;, så arrangementet vil ha 18 års aldersgrense.
 
 Trykk på knappen ovenfor for å melde din interesse!
 
 ## Hvor?
-Per nå satser vi på å leie lokale i Hamar-området, og arbeider med å skaffe et med plass til 100-200 deltakere. Vi har allerede skaffet nettverksutstyr, og jobber med sponsoravtaler.
+Vi jobber med å spikre leieavtale for et lokale i Hamar-området, og vil ha plass til 100 deltakere. Vi har allerede skaffet nettverksutstyr, og jobber med sponsoravtaler for blandt annet fiberlinje.
 
 ## Pris?
-I første omgang kommer vi til å slippe 100 billetter til 499 kr + omkostninger per stykk, så det kan lønne seg å være rask på avtrekkeren for å sikre seg plass.
+Billetter blir å koste 499 kr (pluss omkostninger). Vi slipper kun 100 stykk, så det kan lønne seg å være rask på avtrekkeren for å sikre seg plass. Målet er at arrangementet skal gå i null, og eventuelt overskudd vil vi donere til Røde Kors Hamar.
 
 Bli med på [vår Discord-server](https://discord.gg/J4efDJAZnH) for å holde deg oppdatert.
 
