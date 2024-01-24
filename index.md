@@ -3,7 +3,7 @@
 ## 🤔 Hva er det?
 Er dere triste fordi det ikke blir noe TG i år? Mange av oss som er frivillige på TG synes også er det ganske kjipt, og vi forsøker derfor å organisere et "erstatnings-LAN" i påsken. Det blir compoer og generelt god stemning 🥰 &#171;Vi er vår egen målgruppe&#187; så arrangementet vil ha 18 års aldersgrense.
 
-## 🌍 Hvor or det?
+## 🌍 Hvor er det?
 Vi jobber med å spikre leieavtale for et lokale i Hamar-området, og vil ha plass til 100 deltakere. Vi har allerede skaffet nettverksutstyr, og jobber med sponsoravtaler for blant annet fiberlinje.
 
 ## 💸 Hva koster det?
