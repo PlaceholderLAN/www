@@ -12,6 +12,21 @@ aside a.discord.button {
     background: transparent url(../images/discord-button.png) 0 0 no-repeat;
 }
 
+#main-content {
+    #hva-er-det:before {
+        content: '🤔';
+    }
+    #hvor-er-det:before {
+        content: '🌍';
+    }
+    #hva-koster-det:before {
+        content: '💸';
+    }
+    #hvor-melder-jeg-meg-på:before {
+        content: '📝';
+    }
+}
+
 /* Mobile */
 @media only screen and (max-width: 767px) {
     header a.button {
