@@ -14,4 +14,4 @@ Fyll ut [interesseskjemaet vårt](https://forms.gle/FP36t7VjRy2Tt3nSA) så vi f�
 
 Inviter gjerne venner! Jo flere, jo bedre!
 
-Koz & klemz 💖
+[Koz & klemz fra oss](hvem.html) 💖
