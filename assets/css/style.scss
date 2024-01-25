@@ -3,15 +3,18 @@
 
 @import "{{ site.theme }}";
 
+// Custom image for Google Forms button.
 header a.button {
     /*background: transparent url(../images/tickets-button.png) 0 0 no-repeat;*/
     background: transparent url(../images/interesse-button.png) 0 0 no-repeat;
 }
 
+// Custom image for sidebar button.
 aside a.discord.button {
     background: transparent url(../images/discord-button.png) 0 0 no-repeat;
 }
 
+// Custom icons for frontpage headings.
 #main-content {
     #hva-er-det:before {
         content: '🤔';
@@ -31,10 +34,21 @@ aside a.discord.button {
     }
 }
 
-/* Mobile */
+// Mobile
 @media only screen and (max-width: 767px) {
+    // Remove header button background on mobile.
     header a.button {
         background-image: none;
         background-color: #9ddcff;
+    }
+
+    // Remove custom heading icons on mobile.
+    #main-content {
+        #hva-er-det:before,
+        #hvor-er-det:before,
+        #hva-koster-det:before,
+        #hvor-melder-jeg-meg-på:before {
+            content: none;
+        }
     }
 }
