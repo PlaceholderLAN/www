@@ -14,6 +14,11 @@ aside a.discord.button {
     background: transparent url(../images/discord-button.png) 0 0 no-repeat;
 }
 
+// Custom image for date / calendar button
+aside a.calendar.button {
+    background: transparent url(../images/calendar-button.png) 0 0 no-repeat;
+}
+
 // Custom icons for frontpage headings.
 #main-content {
     #hva-er-det:before {
