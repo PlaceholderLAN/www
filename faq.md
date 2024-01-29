@@ -28,7 +28,7 @@
   **A:** Ja, men da **må** du også ha med [underlag for stolen fra f.eks. IKEA](https://www.ikea.com/no/no/p/annasen-gulvbeskytter-70280907/). Dette er et krav fra utleier av lokalet.
 
 * **Q:** Kan jeg ha med kjøleskap / mikrobølgeovn / vannkoker / brødrister / varmeovn / eller lignende?<br>
-  **A:** Nei! Ingen hvitevarer eller andre apparater som trekke mye strøm utenom datamaskiner og tilhørende utstyr.
+  **A:** Nei! Ingen hvitevarer eller andre apparater som trekker mye strøm utenom datamaskiner og tilhørende utstyr.
 
 * **Q:** Kan jeg ha med høyttalere / stereoanlegg?<br>
   **A:** Så lenge du har plass oppå bordet må du gjerne ha med høyttalere, men hvis noen synes det blir mye støy må du være forberedt på å måtte dempe volumet. Vi anbefaler å uansett ha med headset i tillegg.
