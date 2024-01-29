@@ -7,7 +7,7 @@
   **A:** På [Høyvang Samfunnshus](https://maps.app.goo.gl/aAfytFrVm4kqSrLd7), kun 10 minutter kjøring fra Vikingskipet i Hamar.
 
 * **Q:** Hvor mange deltakere har dere plass til?<br>
-  **A:** Vi har plass till 100 deltakere, inkludert crew.
+  **A:** Vi har plass til 100 deltakere, inkludert crew.
 
 * **Q:** Hva koster billetten?<br>
   **A:** Hver billett koster 499 kr pluss omkostninger på 4% fra billettleverandør.
