@@ -21,7 +21,7 @@
 * **Q:** Hva mye båndbredde får vi?<br>
   **A:** Hver deltaker får 1 Gbps, og til sammen har vi 10 Gbps fiber på deling fra Eidsiva.
 
-* **Q:** Må jeg ha med egen nettverkskabel / hvor lang nettverkskabel må jeg ha med?
+* **Q:** Må jeg ha med egen nettverkskabel / hvor lang nettverkskabel må jeg ha med?<br>
   **A:** Ja, du må ha med egen kabel. For å være sikker på at den når frem til nermeste switch bør den være minst *7 meter* lang.
 
 * **Q:** Kan jeg ha med egen stol?<br>
