@@ -9,7 +9,7 @@ header a.button {
     /*background: transparent url(../images/interesse-button.png) 0 0 no-repeat;*/
 }
 
-// Custom image for sidebar button.
+// Custom image for Discord button.
 aside a.discord.button {
     background: transparent url(../images/discord-button.png) 0 0 no-repeat;
 }
@@ -17,6 +17,11 @@ aside a.discord.button {
 // Custom image for date / calendar button
 aside a.calendar.button {
     background: transparent url(../images/calendar-button.png) 0 0 no-repeat;
+}
+
+// Custom image for FAQ button
+aside a.faq.button {
+    background: transparent url(../images/faq-button.png) 0 0 no-repeat;
 }
 
 // Custom icons for frontpage headings.
