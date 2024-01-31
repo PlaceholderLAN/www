@@ -52,4 +52,4 @@
   **A:** Nei, vi selger dessverre ingenting.
 
 * **Q:** Hvor kan jeg sove?<br>
-  **A:** Vi har eget rom for soving i andre etasje, hvor du kan rulle ut liggeunderlag og sovepose for å lade batteriene. Her skal det holdes stille og rolig, slik at de som er der kan få sove av i fred.
+  **A:** Vi har eget rom for soving i andre etasje, hvor du kan rulle ut liggeunderlag og sovepose for å lade batteriene. Her skal det holdes stille og rolig, slik at de som er der kan få sove i fred.
