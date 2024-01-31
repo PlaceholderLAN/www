@@ -14,7 +14,7 @@ Billetter koster 499 kr. Det slippes kun 100 stykk, så det kan lønne seg å v�
 Målet er at arrangementet skal gå i null, og eventuelt overskudd doneres til Røde Kors Hamar.
 
 ## Hvor melder jeg meg på?
-Trykk på billettknappen øverst på denne siden, så havner du hos vår partner Sharptickets. Her kan du kjøpe billetter og reservere din sitteplass. Vi sees!
+Billettsalget åpner straks! I mellomtiden må du gjerne komme innom [Discorden vår](https://discord.gg/J4efDJAZnH) og hilse 😀
 
 Inviter gjerne venner! Jo flere, jo bedre!
 
