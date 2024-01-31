@@ -8,8 +8,6 @@ Arrangementet har 18 års aldersgrense.
 ## Hvor er det?
 På [Høyvang Samfunnshus](https://maps.app.goo.gl/aAfytFrVm4kqSrLd7), kun 10 minutter kjøring fra Vikingskipet i Hamar! Her har vi plass til 100 deltakere, eget lokale for soving, samt fasiliteter som kjøkken???, toalett, og dusj???
 
-Fiberbredbånd på 1 Gigabit/s leveres av Eidsiva. Vi ser også på muligheten for å oppgradere dette til 10 Gigabit/s!
-
 ## Hva koster det?
 Billetter koster 499 kr. Det slippes kun 100 stykk, så det kan lønne seg å være rask på avtrekkeren for å sikre seg plass.
 

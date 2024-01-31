@@ -19,7 +19,7 @@
   **A:** Vi ønsker i utgangspunktet å gi hver deltaker *120 x 80 cm*, men hvis vi blir veldig mange blir dette justert til *100 x 80 cm* eller *80 x 80 cm*. Det vil i så fall annonseres tydelig.
 
 * **Q:** Hva mye båndbredde får vi?<br>
-  **A:** Hver deltaker får 1 Gbps, og til sammen har vi 10 Gbps fiber på deling fra Eidsiva.
+  **A:** TBA.
 
 * **Q:** Blir det tilgang på trådløst nett?<br>
   **A:** Ja, i tillegg til det kablede nettet vil vi også tilby WiFi.
