@@ -39,6 +39,9 @@
 * **Q:** Kan jeg ha med skjermstativ / mikrofonstativ / eller lignende som skrus fast i bordplaten?<br>
   **A:** Ja, så lenge du legger noe mellom bordplaten og klemma slik at det ikke blir merker i bordet.
 
+* **Q:** Kan jeg ha med hylle for å ha på bordet?<br>
+  **A:** Nei, vi kan dessverre ikke tillate hyller.
+
 * **Q:** Er det toaletter i lokalet?<br>
   **A:** Ja, det er flere toaletter i begge etasjene vi benytter. Handicap-toalett er i 2. etasje, og det er rullestolheis opp dit.
 
