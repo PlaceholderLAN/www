@@ -13,7 +13,7 @@
   **A:** Hver billett koster 499 kr pluss omkostninger på 4% fra billettleverandør.
 
 * **Q:** Hvor kjøper jeg billett?<br>
-  **A:** Trykk på "Kjøp billett"-knappen øverst på denne siden :)
+  **A:** Trykk på "Kjøp billetter"-knappen øverst på denne siden 💖
 
 * **Q:** Hvor mye plass får hver deltaker?<br>
   **A:** Vi ønsker i utgangspunktet å gi hver deltaker *120 x 80 cm*, men hvis vi blir veldig mange blir dette justert til *100 x 80 cm* eller *80 x 80 cm*. Det vil i så fall annonseres tydelig.
