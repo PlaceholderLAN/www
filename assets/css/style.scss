@@ -72,4 +72,9 @@ aside a.eidsiva.button {
     aside#sidebar a.button {
         display: inline-block;
     }
+
+    // And center the buttons.
+    aside#sidebar {
+        text-align: center;
+    }
 }
