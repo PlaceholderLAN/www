@@ -67,4 +67,9 @@ aside a.eidsiva.button {
             content: none;
         }
     }
+
+    // Un-hide sidebar buttons.
+    aside#sidebar a.button {
+        display: inline-block;
+    }
 }
