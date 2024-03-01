@@ -19,7 +19,7 @@
   **A:** Vi ønsker i utgangspunktet å gi hver deltaker *120 x 80 cm*, men hvis vi blir veldig mange blir dette justert til *100 x 80 cm* eller *80 x 80 cm*. Det vil i så fall annonseres tydelig.
 
 * **Q:** Hva mye båndbredde får vi?<br>
-  **A:** TBA.
+  **A:** Vår partner Eidsiva leverer 10 gigabit fiberlinje til oss! Hver deltager får 1 gigabit uplink, men har du med egen SFP+ optikk og fiber kan vi også ordne full 10 gigabit 😉
 
 * **Q:** Blir det tilgang på trådløst nett?<br>
   **A:** Ja, i tillegg til det kablede nettet vil vi også tilby WiFi.
