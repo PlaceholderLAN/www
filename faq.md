@@ -1,7 +1,7 @@
 # Spørsmål og Svar
 
 * **Q:** Når foregår arrangementet?<br>
-  **A:** Dørene åpner *12:00 onsdag 27. mars*, og alle må være ute til *14:00 søndag 31. mars*. Internett og strøm vil kobles ut klokka 12:00 på søndag.
+  **A:** Dørene åpner *16:00 onsdag 27. mars*, og alle må være ute til *14:00 søndag 31. mars*. Internett og strøm vil kobles ut klokka 12:00 på søndag.
 
 * **Q:** Hvor foregår arrangementet?<br>
   **A:** På [Høyvang Samfunnshus](https://maps.app.goo.gl/aAfytFrVm4kqSrLd7), kun 10 minutter kjøring fra Vikingskipet i Hamar.
