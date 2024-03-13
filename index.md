@@ -5,6 +5,8 @@ På samme måte som Vy setter inn buss for tog, setter vi inn LAN for dataparty!
 
 Arrangementet har 18 års aldersgrense.
 
+Les vår [pressemelding](assets/Pressemelding_PlacerholderLAN_2024.pdf).
+
 ## Hvor er det?
 På [Høyvang Samfunnshus](https://maps.app.goo.gl/aAfytFrVm4kqSrLd7), kun 10 minutter kjøring fra Vikingskipet i Hamar! Her har vi plass til 100 deltakere, eget lokale for soving, samt fasiliteter som kjøkken, toalett, og sovesal.
 
