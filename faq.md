@@ -16,7 +16,7 @@
   **A:** Trykk på "Kjøp billetter"-knappen øverst på denne siden 💖
 
 * **Q:** Hvor mye plass får hver deltaker?<br>
-  **A:** Vi ønsker i utgangspunktet å gi hver deltaker *120 x 80 cm*, men hvis vi blir veldig mange blir dette justert til *100 x 80 cm* eller *80 x 80 cm*. Det vil i så fall annonseres tydelig.
+  **A:** Alle får *120 x 80 cm* å spre seg utover.
 
 * **Q:** Hva mye båndbredde får vi?<br>
   **A:** Vår partner Eidsiva leverer 10 gigabit fiberlinje til oss! Hver deltager får 1 gigabit uplink, men har du med egen SFP+ optikk og fiber kan vi også ordne full 10 gigabit 😉
