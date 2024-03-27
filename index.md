@@ -1,5 +1,18 @@
 # LAN i påska?
 
+<!-- Add a placeholder for the Twitch embed -->
+<div id="twitch-embed"></div>
+
+<!-- Load the Twitch embed script -->
+<script src="https://player.twitch.tv/js/embed/v1.js"></script>
+
+<!-- Create a Twitch.Player object. This will render within the placeholder div -->
+<script type="text/javascript">
+  new Twitch.Player("twitch-embed", {
+    channel: "placeholder_lan"
+  });
+</script>
+
 ## Hva er det?
 På samme måte som Vy setter inn buss for tog, setter vi inn LAN for dataparty! Som mange andre kjenner vi behovet for å samles for gaming, sosialisering, og generelt god stemning i påska.
 
